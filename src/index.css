@@ -1,0 +1,28 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+
+.navbar{
+    display: flex;
+    gap: 100px;
+    background-color: #EB7071;
+    padding: 20px;
+    margin: 0px;
+}
+.navbar__section{
+    color: white;
+}
+
+.studentlist{
+    font-size: 20px;
+}
+.btn{
+    padding: 10px;
+    margin: 20px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
